@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\practice\practice\bin\Debug\practice.exe.config
+C:\Users\User\source\repos\practice\practice\bin\Debug\practice.exe
+C:\Users\User\source\repos\practice\practice\bin\Debug\practice.pdb
+C:\Users\User\source\repos\practice\practice\obj\Debug\practice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practice\practice\obj\Debug\practice.exe
+C:\Users\User\source\repos\practice\practice\obj\Debug\practice.pdb
+C:\Users\User\source\repos\practice\practice\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\source\repos\practice\practice\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\source\repos\practice\practice\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\source\repos\practice\practice\obj\Debug\practice.csproj.CopyComplete
+C:\Users\User\source\repos\practice\practice\bin\Debug\plc.dll
+C:\Users\User\source\repos\practice\practice\bin\Debug\Reader.dll
+C:\Users\User\source\repos\practice\practice\bin\Debug\Write.dll
+C:\Users\User\source\repos\practice\practice\bin\Debug\plc.pdb
+C:\Users\User\source\repos\practice\practice\bin\Debug\Reader.pdb
+C:\Users\User\source\repos\practice\practice\bin\Debug\Write.pdb
